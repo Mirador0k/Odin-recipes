@@ -1,2 +1,6 @@
 # Odin-recipes
-This Website will use some recipes
+This is a website, which includes three recipes:
+
+Italian Pasta Salad
+pancakes
+Strawberry dream
