@@ -30,3 +30,10 @@ h3{
     color: rgb(253, 129, 237);
     font-size: 30px;
 }
+input{
+    width: 500px;
+    height: auto;
+    background-color: rgb(252, 105, 186);
+    color: rgb(102, 1, 43);
+    font-family: "Aclonica", sans-serif;
+}
