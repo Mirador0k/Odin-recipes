@@ -1,0 +1,32 @@
+body{
+    background-color: #19191b;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul, ol{
+    display: inline-block;
+    text-align: left;
+}
+h1{
+    font-size: 100px;
+    color: rgb(255, 179, 179);
+    font-family: "Aclonica", sans-serif;
+}
+img{
+    height: 350px;
+    width: auto;
+}
+h2, h3{
+    color: rgb(253, 129, 237);
+}
+h2{
+    color: gray;
+    font-size: 15px;
+    font-family: "Merienda", sans-serif;
+}
+h3{
+    font-family: "Merienda", sans-serif;
+    color: rgb(253, 129, 237);
+    font-size: 30px;
+}

@@ -1,0 +1,17 @@
+*{
+    background-color: #19191b;
+    color: white;
+    text-align: center;
+    font-family: "Aclonica";
+}
+body h1{
+    font-size: 100px;
+    color: rgb(255, 179, 179);
+}
+input{
+    width: 500px;
+    height: auto;
+    background-color: rgb(255, 122, 195);
+    color: rgb(102, 1, 43);
+    font-family: ;
+}
